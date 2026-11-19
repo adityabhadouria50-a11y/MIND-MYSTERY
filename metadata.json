@@ -1,0 +1,6 @@
+{
+  "name": "MINDMYSTERY",
+  "description": "Your Thoughts. Our Intelligence. One Mysterious Game. An accurate Bayesian AI mind-reading game and brain-challenge arena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
